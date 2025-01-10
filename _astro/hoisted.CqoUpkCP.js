@@ -1,0 +1,1 @@
+import"./hoisted.BgF6ouT2.js";$(document).ready(async function(){let e=0;t();function t(){let l,s=document.getElementsByClassName("slides");for(l=0;l<s.length;l++)s[l].style.display="none";e++,e>s.length&&(e=1),s[e-1].style.display="block",setTimeout(t,1e4)}});
